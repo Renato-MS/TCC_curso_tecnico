@@ -1,1 +1,1 @@
-# TCC_cuso_tecnico
+# TCC_curso_tecnico
